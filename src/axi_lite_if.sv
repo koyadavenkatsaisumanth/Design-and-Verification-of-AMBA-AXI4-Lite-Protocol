@@ -1,6 +1,7 @@
 /*********************************************************************************
 ** File Name   : axi_lite_if.sv
-** Author      : Sajida Sayyad
+** Authors     : Group 4(Sajida Sayyad,Nikhil Swarna,Hanisha Dhananjaya Produttur,Venkat Sai Sumanth Koyada)
+** Primary     : Sajida Sayyad
 ** Project     : AXI4 Lite Protocol
 ** Course      : ECE-571 Introduction to system verilog
 **

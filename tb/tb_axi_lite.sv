@@ -1,6 +1,7 @@
 /*********************************************************************************
 ** File Name   : tb_axi_lite.sv
-** Author      : Venkat Sai Sumanth Koyada & Sajida Sayyad
+** Authors     : Group 4(Sajida Sayyad,Nikhil Swarna,Hanisha Dhananjaya Produttur,Venkat Sai Sumanth Koyada)
+** Primary     : Venkat Sai Sumanth Koyada
 ** Project     : AXI4 Lite Protocol
 ** Course      : ECE-571 Introduction to System Verilog
 **

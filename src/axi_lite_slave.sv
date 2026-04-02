@@ -1,6 +1,7 @@
 /*********************************************************************************
 ** File Name   : axi_lite_slave.sv
-** Author      : Nikhil Swarna & Hanisha Dhananjaya Produtur 
+** Authors     : Group 4(Sajida Sayyad,Nikhil Swarna,Hanisha Dhananjaya Produttur,Venkat Sai Sumanth Koyada)
+** Primary     : Hanisha Dhananjaya Produtur  & Venkat Sai Sumanth Koyada
 ** Project     : AXI4 Lite Protocol
 ** Course      : ECE-571 Introduction to system verilog
 **

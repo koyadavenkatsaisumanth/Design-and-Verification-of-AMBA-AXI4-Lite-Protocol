@@ -1,6 +1,7 @@
 /*********************************************************************************
 ** File Name   : axi_lite_master.sv
-** Author      : Nikhil Swarna & Venkat Sai Sumanth Koyada
+** Authors     : Group 4(Sajida Sayyad,Nikhil Swarna,Hanisha Dhananjaya Produttur,Venkat Sai Sumanth Koyada)
+** Primary     : Nikhil Swarna & Venkat Sai Sumanth Koyada
 ** Project     : AXI4 Lite Protocol
 ** Course      : ECE-571 Introduction to system verilog
 **
